@@ -1,9 +1,10 @@
 import './css/style.css';
 
+import React from 'react';
+
 import { Inter } from 'next/font/google';
 
 import Header from '@/app/components/ui/header';
-import Banner from '@/app/components/banner';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -29,7 +30,6 @@ export default function RootLayout({
         <div className="Simpleflex flex-col min-h-screen overflow-hidden supports-[overflow:clip]:overflow-clip">
           <Header />
           {children}
-          {/* <Banner /> */}
         </div>
       </body>
     </html>

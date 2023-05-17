@@ -4,7 +4,6 @@ export const metadata = {
 };
 
 import Hero from '@/app/components/hero';
-import Features from '@/app/components/features';
 import FeaturesBlocks from '@/app/components/features-blocks';
 import Testimonials from '@/app/components/testimonials';
 import Newsletter from '@/app/components/newsletter';
