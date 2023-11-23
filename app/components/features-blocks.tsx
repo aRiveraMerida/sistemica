@@ -12,11 +12,11 @@ export default function FeaturesBlocks() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Explore the solutions</h2>
+            <h2 className="h2 mb-4">Business Scenarios</h2>
             <p className="text-xl text-gray-600">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur excepteur sint occaecat
-              cupidatat.
+              Impulsamos los procesos de cualquier negocio, mediante soluciones
+              productivas en la que la empresa y las personas son el centro. La
+              AI como vehículo de transformación.
             </p>
           </div>
 
@@ -59,11 +59,11 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Headless CMS
+                Ventas
               </h4>
-              <p className="text-gray-600 text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
+              {/* <p className="text-gray-600 text-center">
+                Desde el researching hasta la generación de una Kwonledge base
+              </p> */}
             </div>
 
             {/* 2nd item */}
@@ -100,11 +100,12 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Headless CMS
+                Social Media
               </h4>
-              <p className="text-gray-600 text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
+              {/* <p className="text-gray-600 text-center">
+                Olvidate del trabajo manual, automatiza tus procesos de creación
+                y publicación de contenido en redes sociales.
+              </p> */}
             </div>
 
             {/* 3rd item */}
@@ -144,11 +145,11 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Headless CMS
+                Marketing
               </h4>
-              <p className="text-gray-600 text-center">
+              {/* <p className="text-gray-600 text-center">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
+              </p> */}
             </div>
 
             {/* 4th item */}
@@ -187,11 +188,11 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Headless CMS
+                Gestión de equipos
               </h4>
-              <p className="text-gray-600 text-center">
+              {/* <p className="text-gray-600 text-center">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
+              </p> */}
             </div>
 
             {/* 5th item */}
@@ -225,11 +226,11 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Headless CMS
+                Asistentes virtuales
               </h4>
-              <p className="text-gray-600 text-center">
+              {/* <p className="text-gray-600 text-center">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
+              </p> */}
             </div>
 
             {/* 6th item */}
@@ -259,11 +260,11 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Headless CMS
+                Aceleradores
               </h4>
-              <p className="text-gray-600 text-center">
+              {/* <p className="text-gray-600 text-center">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
